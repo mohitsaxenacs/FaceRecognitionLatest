@@ -5,9 +5,7 @@ There are three subdirectories:
         a simple form of PCA using the Colt package. Try this first.
 
 *  JavaFaces2/
-     - this code is a refactoring of the JavaFaces package by Sajan Joseph, available
-       at http://code.google.com/p/javafaces/. Try this second.
-       It generates a cache file, eigen.cache, needed for the third application.
+     - It generates a cache file, eigen.cache, needed for the third application.
 
 * GUI Face Recognizer/
     - this code will recognize a face based on the eigen.cache information that
