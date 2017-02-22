@@ -76,9 +76,7 @@ e.g.
 ----------------------------
 Creating New Training Images
 
-The easiest way of generating training images is to download the face tracker application
-from http://fivedots.coe.psu.ac.th/~ad/jg/nui07/. It includes a "Save Face" button which will
-save image clips of the face. These should be renamed to be based on a name + number, 
-and be a PNG file (e.g. andrew1.png). Put them in trainingImages\
+The easiest way of generating training images is to use the face tracker module
+
 
 
