@@ -1,27 +1,3 @@
-
-NUI Chapter 8. Face Recognition : GUI Face Recognizer
-
-From the website:
-
-  Killer Game Programming in Java
-  http://fivedots.coe.psu.ac.th/~ad/jg
-
-  Dr. Andrew Davison
-  Dept. of Computer Engineering
-  Prince of Songkla University
-  Hat yai, Songkhla 90112, Thailand
-  E-mail: ad@fivedots.coe.psu.ac.th
-
-
-If you use this code, please mention my name, and include a link
-to the website.
-
-Thanks,
-  Andrew
-
-============================
-
-
 This directory contains 2 Java files:
   *  FaceRecognizer.java, FaceRecogPanel.java
 
@@ -57,13 +33,13 @@ You need to have a webcam connected to your PC.
 
 You need to download and install:
 
-  * OpenCV:  I downloaded v2.4.5 for Windows with pre-compiled binaries:
+  * OpenCV:  I downloaded v2.4.9 for Windows with pre-compiled binaries:
              from http://opencv.org/downloads.html
-             and installed it in C:\opencv
+             and installed it in desired location
 
   * JavaCV:  http://code.google.com/p/javacv/
-             I downloaded javacv-0.5-bin.zip
-             and installed it in d:\javacv-bin
+             I downloaded javacv-0.9-bin.zip
+             and installed it in desired location
    
   * copy over JavaFaces2.jar and eigen.cache from the JavaFaces2\ example in this 
     download. If they are not there, then generate them by following the readme.txt
@@ -82,5 +58,4 @@ Execution:
 > run FaceRecognition
     // you must have JavaCV, OpenCV, Colt and JavaFaces2.jar installed
 
-----------------------------
-Last updated: 16th July 2013
+

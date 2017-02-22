@@ -16,9 +16,6 @@ import static org.bytedeco.javacpp.opencv_imgproc.cvResize;
 import static org.bytedeco.javacpp.opencv_objdetect.CV_HAAR_DO_ROUGH_SEARCH;
 import static org.bytedeco.javacpp.opencv_objdetect.CV_HAAR_FIND_BIGGEST_OBJECT;
 
-// FaceRecogPanel.java
-// Andrew Davison, March 2011, ad@fivedots.psu.ac.th
-
 /* This panel repeatedly snaps a picture and draw it onto
    the panel.  A face is highlighted with a yellow rectangle, which is updated 
    as the face moves. A "crosshairs" graphic is also drawn, positioned at the

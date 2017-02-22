@@ -1,26 +1,3 @@
-
-NUI Chapter 8. Face Recognition : Colt PCA
-
-From the website:
-
-  Killer Game Programming in Java
-  http://fivedots.coe.psu.ac.th/~ad/jg
-
-  Dr. Andrew Davison
-  Dept. of Computer Engineering
-  Prince of Songkla University
-  Hat yai, Songkhla 90112, Thailand
-  E-mail: ad@fivedots.coe.psu.ac.th
-
-
-If you use this code, please mention my name, and include a link
-to the website.
-
-Thanks,
-  Andrew
-
-============================
-
 This directory contains 1 Java files:
   * Pca.java
 
@@ -37,5 +14,4 @@ Compilation and Execution:
 
 > java -cp "colt.jar;." Pca
 
-----------------------------
-Last updated: 4th May 2011
+

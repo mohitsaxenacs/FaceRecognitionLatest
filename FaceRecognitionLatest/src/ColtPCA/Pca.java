@@ -1,9 +1,6 @@
 package ColtPCA;
 
 
-// Pca.java
-// Andrew Davison, April 2011, ad@fivedots.coe.psu.ac.th
-
 /* Use the Colt library (http://acs.lbl.gov/software/colt/) to calculate a 
    covariance matrix, eigenvectors, and eigenvalues for training data.
    Tranform the training data using the eigenvectors into Eigenspace.
@@ -12,9 +9,6 @@ package ColtPCA;
    in Eigenspace.
 
    Colt API docs: http://acs.lbl.gov/software/colt/api/
-
-   Example data taken from Chapter 3 of the PCA tutorial by Lindsay I Smith at
-     http://www.cs.otago.ac.nz/cosc453/student_tutorials/principal_components.pdf
 
    Usage:
       > javac -cp "colt.jar;." Pca.java

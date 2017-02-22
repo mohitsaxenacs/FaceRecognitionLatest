@@ -1,11 +1,6 @@
 package JavaFaces2;
 
 
-// FaceRecognition.java
-// Sajan Joseph, sajanjoseph@gmail.com
-// http://code.google.com/p/javafaces/
-// Modified by Andrew Davison, April 2011, ad@fivedots.coe.psu.ac.th
-
 /* Use the eigen.cache containing eigenfaces, eigenvalues, and training
    image info to find the training image which most cloesly resembles 
    an input image.

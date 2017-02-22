@@ -1,13 +1,5 @@
 package JavaFaces2;
 
-
-
-
-// BuildEigenFaces.java
-// Sajan Joseph, sajanjoseph@gmail.com
-// http://code.google.com/p/javafaces/
-// Modified by Andrew Davison, April 2011, ad@fivedots.coe.psu.ac.th
-
 /* Use the training face images in trainingImages\ to create eigenvector and eigenvalue,
    information using PCA. The information is stored in eigen.cache.
    Two subdirectories, eigenfaces\ and reconstructed\, are also generated which
@@ -16,9 +8,6 @@ package JavaFaces2;
 
    Only eigen.ccache is used by the recognition process, which is separated out
    into FaceRecognizer.java
-
-   This code is a refactoring of the JavaFaces package by Sajan Joseph, available
-   at http://code.google.com/p/javafaces/ The current version includes a GUI.
 */
 
 import java.awt.image.*;

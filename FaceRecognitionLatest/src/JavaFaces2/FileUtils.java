@@ -1,14 +1,5 @@
 package JavaFaces2;
 
-
-
-
-// FileUtils.java
-// Sajan Joseph, sajanjoseph@gmail.com
-// http://code.google.com/p/javafaces/
-// Modified by Andrew Davison, April 2011, ad@fivedots.coe.psu.ac.th
-
-
 import java.io.*;
 import java.util.*;
 import java.awt.image.*;

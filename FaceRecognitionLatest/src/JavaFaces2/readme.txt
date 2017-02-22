@@ -1,26 +1,3 @@
-
-NUI Chapter 8. Face Recognition : JavaFaces2
-
-From the website:
-
-  Killer Game Programming in Java
-  http://fivedots.coe.psu.ac.th/~ad/jg
-
-  Dr. Andrew Davison
-  Dept. of Computer Engineering
-  Prince of Songkla University
-  Hat yai, Songkhla 90112, Thailand
-  E-mail: ad@fivedots.coe.psu.ac.th
-
-
-If you use this code, please mention my name, and include a link
-to the website.
-
-Thanks,
-  Andrew
-
-============================
-
 This directory contains two Java applications:
   *  BuildEigenFaces and FaceRecognition
 
@@ -104,5 +81,4 @@ from http://fivedots.coe.psu.ac.th/~ad/jg/nui07/. It includes a "Save Face" butt
 save image clips of the face. These should be renamed to be based on a name + number, 
 and be a PNG file (e.g. andrew1.png). Put them in trainingImages\
 
-----------------------------
-Last updated: 4th May 2011
+

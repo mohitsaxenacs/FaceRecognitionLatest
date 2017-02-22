@@ -1,9 +1,6 @@
 package GUIFaceRecognizer;
 
 
-// FaceRecognizer.java
-// Andrew Davison, April 2011, ad@fivedots.psu.ac.th
-
 /* Show a sequence of images snapped from a webcam in a picture panel (FaceRecogPanel). 
    A face is highlighted with a yellow rectangle, which is updated as the face
    moves. The highlighted part of the image can be recognized by the user pressing
