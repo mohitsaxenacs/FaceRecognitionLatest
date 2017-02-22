@@ -15,9 +15,9 @@ There are 2 subdirectories:
   *  lib\                -- holds the COLT package as a JAR
                            (from http://acs.lbl.gov/software/colt/)
 
-  *  trainingImages\     -- 25 example training images, used by BuildEigenFaces
+  *  trainingImages\     -- contains example training images, used by BuildEigenFaces
          - a training image filename should be based on a name + number, and be a PNG file
-         - e.g. andrew1.png
+         - e.g. mohit1.png
 
 
 There are 5 batch files:
@@ -68,9 +68,9 @@ Execution of BuildEigenFaces and FaceRecognition:
     (e.g. same size, grayscale, same resolution, same face position, same brightness, etc)
 
 e.g. 
- > match andrew0.png            // should return "andrew"
- > match jim0.png  20           // no match found; usually returns "peeranut" and a large distance
- > match watcharin0.png 24      // should return "watcharin"
+ > match mohit0.png            // should return "mohit"
+ > match nirvek0.png  20           // no match found; usually returns "peeranut" and a large distance
+ > match saurav0.png 24      // should return "saurav"
 
 
 ----------------------------
