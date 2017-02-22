@@ -1,26 +1,3 @@
-
-NUI Chapter 7. Face Detection and Tracking: JavaCV Examples
-
-From the website:
-
-  Killer Game Programming in Java
-  http://fivedots.coe.psu.ac.th/~ad/jg
-
-  Dr. Andrew Davison
-  Dept. of Computer Engineering
-  Prince of Songkla University
-  Hat yai, Songkhla 90112, Thailand
-  E-mail: ad@fivedots.coe.psu.ac.th
-
-
-If you use this code, please mention my name, and include a link
-to the website.
-
-Thanks,
-  Andrew
-
-============================
-
 This directory contains 1 Java example:
   * FaceDetection.java
 
@@ -44,13 +21,13 @@ Before Compilation/Execution:
 
 You need to download and install:
 
-  * OpenCV:  I downloaded v2.4.5 for Windows with pre-compiled binaries:
+  * OpenCV:  I downloaded v2.4.9 for Windows with pre-compiled binaries:
              from http://opencv.org/downloads.html
-             and installed it in C:\opencv
+             and installed it in desired location
 
   * JavaCV:  http://code.google.com/p/javacv/
-             I downloaded javacv-0.5-bin.zip
-             and installed it in d:\javacv-bin
+             I downloaded javacv-0.9-bin.zip
+             and installed it in desired location
 
 ----------------------------
 Compilation:
@@ -70,4 +47,3 @@ e.g.
      -- the image with all faces highlighted is stored in markedFaces.jpg
 
 ----------------------------
-Last updated: 10th July 2013

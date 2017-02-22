@@ -1,7 +1,4 @@
 
-// FacePanel.java
-// Andrew Davison, July 2013, ad@fivedots.psu.ac.th
-
 /* This panel repeatedly snaps a picture and draw it onto
    the panel.  A face is highlighted with a yellow rectangle, which is updated 
    as the face moves. A "crosshairs" graphic is also drawn, positioned at the
@@ -13,8 +10,6 @@
   It is executed inside its own thread since the processing can be lengthy,
   and I don't want the image grabbing speed to be affected.
 
-  I borrowed some coding ideas from the JavaCV Android example in 
-  samples\FacePreview.java
 */
 
 import java.awt.BasicStroke;
